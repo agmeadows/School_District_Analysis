@@ -65,4 +65,12 @@ The biggest changes were seen in the percent passing math and reading scores. Th
 
 #### Scores by Type
 
-The scores by type saw a similar change. The increase was slightly larger at 3 - 4% across all the scores. The overall passing was unchanged just as in the scores by size.
+The scores by type saw a similar change. Here is the original analysis:
+
+![Original School Type](/Resources/images/Orig_school_type.PNG)
+
+And the new analysis after scores were changed:
+
+![Challenge School Type](/Resources/images/Challenge_school_type.PNG)
+
+The increase was slightly larger at 3 - 4% across all the scores. The overall passing was unchanged just as in the scores by size.
